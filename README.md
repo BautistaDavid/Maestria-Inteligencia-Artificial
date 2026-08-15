@@ -32,9 +32,10 @@ This space acts as a technical portfolio and version-controlled backup of my aca
 ```text
 .
 ├── 📂 gestion-de-datos/          # Data pipelines, relational/non-relational DBs, and ETLs
-├── 📂 sistemas-inteligentes/     # Search algorithms, logic systems, and agent design
+├── 📂 sistemas-inteligentes/     # Search algorithms, logic systems, Expert systems, and agent design
+├── 📂 metodos-aplicaciones-analitica/   # Supervised/unsupervised models and evaluation
+├── 📂 visualizacion-de-datos/            # Data Viz, Tableau, Power BI, Programmatic Data Visualization
+├── 📂 seminario-de-investigacion/
+└── README.md                     # General portfolio documentation
 
 ```
-├── 📂 machine-learning/          # Supervised/unsupervised models and evaluation
-├── 📂 nlp-processing/            # Text mining, sentiment tools, and language models
-└── README.md                     # General portfolio documentation
