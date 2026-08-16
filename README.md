@@ -4,7 +4,7 @@ Repository dedicated to compiling implementations, projects, labs, and experimen
 
 ---
 
-## 📌 Repository Overview
+## 📌 Repository Overview :)
 
 This space acts as a technical portfolio and version-controlled backup of my academic progress in Advanced AI. It includes modular code, custom scripts, predictive modeling, and pipeline architectures across different specialized subjects.
 
@@ -39,3 +39,6 @@ This space acts as a technical portfolio and version-controlled backup of my aca
 └── README.md                     # General portfolio documentation
 
 ```
+
+
+
