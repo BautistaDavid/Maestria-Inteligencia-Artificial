@@ -26,7 +26,7 @@ pip install requests beautifulsoup4 lxml
 Uso
 ----
 python scraper_docentes_javeriana.py
-Genera: docentes_industrial_sistemas.csv
+Genera: scrap_perfiles_docentes.csv
 """
 
 
@@ -46,6 +46,7 @@ LISTADO_URL = "https://ingenieria.javeriana.edu.co/cuerpo-docente"
 DEPARTAMENTOS_OBJETIVO = {
     "DEPARTAMENTO DE INGENIERÍA INDUSTRIAL": "Ingeniería Industrial",
     "DEPARTAMENTO DE INGENIERÍA DE SISTEMAS": "Ingeniería de Sistemas",
+    "DEPARTAMENTO DE ELECTRÓNICA": "Ingeniería Electrónica"
 }
 
 HEADING_RE = re.compile(r"^h[1-6]$")
@@ -217,7 +218,7 @@ def main():
         })
         time.sleep(0.8)
 
-    with open("docentes_industrial_sistemas.csv", "w", newline="", encoding="utf-8-sig") as f:
+    with open("scrap_perfiles_docentes.csv", "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.DictWriter(
             f,
             fieldnames=["Nombre", "Cargo", "Departamento", "Facultad",
@@ -226,7 +227,7 @@ def main():
         writer.writeheader()
         writer.writerows(filas)
 
-    print("\nListo -> docentes_industrial_sistemas.csv")
+    print("\nListo -> scrap_perfiles_docentes.csv")
 
 
 if __name__ == "__main__":
