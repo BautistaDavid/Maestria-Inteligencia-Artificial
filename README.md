@@ -42,15 +42,12 @@ This space acts as a technical portfolio and version-controlled backup of my aca
 
 ## 🔗 Quick Links & Professional Profiles
 
-<p align="center">
-  <a href="https://www.kaggle.com/davebau" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Profile">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/david-felipe-bautista-bernal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-</p>
+<a href="https://www.kaggle.com/davebau">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/david-felipe-bautista-bernal/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 
