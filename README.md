@@ -40,5 +40,15 @@ This space acts as a technical portfolio and version-controlled backup of my aca
 
 ```
 
+## 🔗 Quick Links & Professional Profiles
+
+| Platform | Direct Link |
+| :--- | :--- |
+| **Kaggle** | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/davebau) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-felipe-bautista-bernal/) |
+
+
+
+
 
 
