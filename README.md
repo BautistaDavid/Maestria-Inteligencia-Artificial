@@ -45,6 +45,7 @@ This space acts as a technical portfolio and version-controlled backup of my aca
 <a href="https://www.kaggle.com/davebau">
   <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/david-felipe-bautista-bernal/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
